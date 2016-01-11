@@ -1,5 +1,3 @@
 require 'qiniu'
-::Qiniu.establish_connection! :access_key => "your key",
-                                :secret_key => "your key"
-
-
+Qiniu.establish_connection! :access_key => "cxFJ2yJIpcpOl5DOJymNid9JfvokLd01Fkd9vZKB",
+                                :secret_key => "OJj7otsBSMSOau3w832nv8gIr2TtOKz1xVal7R5t"
